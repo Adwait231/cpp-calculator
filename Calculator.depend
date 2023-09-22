@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1684151122 source:d:\new folder\6th semester\internship\cpp-calculator\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1684151123 d:\new folder\6th semester\internship\cpp-calculator\calculator.h
+	<string>
+	<array>
+	<cmath>
+
+1684151125 source:d:\new folder\6th semester\internship\cpp-calculator\main.cpp
+	<iostream>
+	<iomanip>
+	"calculator.h"
+	"scientific.h"
+
+1684151135 d:\new folder\6th semester\internship\cpp-calculator\scientific.h
+	<string>
+	<array>
+	<cmath>
+	"calculator.h"
+
+1684151133 source:d:\new folder\6th semester\internship\cpp-calculator\scientific.cpp
+	<iostream>
+	"scientific.h"
+
